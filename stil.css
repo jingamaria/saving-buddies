@@ -1,0 +1,227 @@
+body {
+	background-color:#404040;
+	font: italic small-caps bold 16px/2 cursive;
+	font-weight: bold;
+}
+
+.bara {
+		background-color: #999;
+}
+.bara img {
+	width: 75px;
+	padding: 15px 0px 5px 10px;
+	margin-left: 25px;
+}
+.bara ul {
+	margin-left:220px;
+	vertical-align:60%;
+}
+.meniu {
+	display:inline-block;
+	font-size: 25px;
+}
+.meniu li {
+	display: inline-block;
+}			
+.buton {
+
+	padding:10px 25px;
+}
+.buton a {
+	text-decoration:none;
+	color: Black;
+}
+.buton:hover {
+	background-color:#1005;
+}
+	
+.hero {
+		background-image: url("poze/doggo111.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: 700px;
+		margin-top: -50px;
+		}	
+h1 {
+	font-size: 80px;
+	text-align: center;
+	color: Black;
+}
+h2 {
+	text-align: center;
+	font-size: 80px;
+	color: Black;
+}
+h3 {
+	text-align: center;
+	font-size: 80px;
+	color: White;
+	border: 5px solid gray;
+}
+p {
+	text-align:center;	
+	font-size: 30px;
+	line-height: 1.5;
+	color: White;
+	width: 90%;
+	margin-left: 50px;
+}
+.avb {
+	font-size: 45px;
+	margin-left: -300px;
+}
+.uhm {
+	margin-top: 150px;
+}
+.dece {
+	font-size: 40px;
+	text-align: center;
+	margin-top: -700px;
+	margin-left: 600px;	
+}
+.p2 {
+	width: 600px;
+	margin-left: 680px;
+}
+	
+.fundal2 {
+		background-image: url("poze/dogg.jpg");
+		background-repeat: no-repeat;
+		height: 700px;
+		margin-left: 700px;
+		margin-top: 300px;
+}
+.dc {
+	font-size: 40px;
+	text-align: center;
+	width: 680px;
+	margin-top: -670px;
+}
+.list {
+	list-style-position: inside;
+	width: 600px;
+	line-height: 1.5;
+	text-align: center;
+	margin-right: 72px;
+	color:White;
+	font-size: 35px;
+}
+.contact {
+	font-size: 25px;
+	text-align: center;
+	line-height: 1.2;
+	margin-left: 70px;
+	margin-top: 50px;
+}
+
+footer {
+	text-align: center;
+	margin-top: 100px;
+}
+.container {
+		margin-top: 50px;
+		margin-left: 130px;
+}
+.treime {
+	width: 33,33%;
+	float: left;
+}
+.adp {
+	font-size: 45px;
+	width: 600px;
+	margin-left: 350px;
+	border: none;
+}
+.ace {
+	font-size: 25px;
+	float: left;
+	width: 100%;
+	margin-left: -55px;
+}
+.test {
+	color: White;
+	font-size: 65px;
+}
+.unu {
+	width: 800px;
+	margin-left: 300px;
+	margin-top: -250px;
+}
+.man {
+	margin-top: 20px;
+	margin-left: 1050px;
+}
+.doi {
+	width: 900px;
+	margin-left: -930px;
+	margin-top: -250px;
+}
+.old {
+	margin-top: 10px;
+}
+.trei {
+	width: 900px;
+	margin-left: 300px;
+	margin-top: -270px;
+}
+h5 {
+	color: White;
+	font-size: 25px;
+}
+.alina {
+	margin-left: 80px;
+	margin-top: 95px;
+}
+.raul {
+	margin-left: 110px;
+	margin-top: 95px;
+}
+.mr {
+	margin-left: 7px;
+	margin-top: 75px;
+	font-size: 22px;
+}
+.gallery {
+  margin-left: 35px;
+  float: left;
+  width: 400px;
+}
+.galleryy {
+  margin-left: 35px;
+  margin-top: 50px;
+  float: left;
+  width: 400px;
+}
+.desc {
+	color: White;
+	font-size: 20px;
+	margin-left: 40px;
+}
+.desc1 {
+	color: White;
+	font-size: 20px;
+	margin-left: 15px;
+}
+.desc2 {
+	color: White;
+	font-size: 20px;
+	margin-left: 60px;
+}
+h4 {
+	text-align: center;
+	font-size: 40px;
+	color: White;
+	border: 5px solid gray;
+}
+.ad {
+	margin-left: 320px;
+	margin-top: -200px;
+}
+article img{
+	margin-top: 250px;
+	width: 100px;
+}
+.pozeee {
+	margin-left: 765px;
+	margin-top: -130px;
+}
